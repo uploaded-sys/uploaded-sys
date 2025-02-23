@@ -52,11 +52,7 @@ If you'd like to get in touch with me, whether to collaborate, ask questions, or
 - **GitHub**: [uploaded-sys](https://github.com/uploaded-sys)
 - **Website**: [https://uploaded-sys.github.io/](https://uploaded-sys.github.io/)
   
-Additionally, you can find me on social media or other development communities where I participate. If you want to discuss technical topics, share feedback on the projects, or simply talk about the open-source ecosystem, I'm always open to new connections!
+
 
 ---
 
-This version removes the reference to personal blogs and focuses on showcasing your projects and sharing updates. Let me know if you'd like to make any other adjustments!
-
-
-<a href="https://app.daily.dev/uploadedsystems"><img src="https://api.daily.dev/devcards/v2/H1PMtuKTDCHW3unedKzAh.png?type=wide&r=lp1" width="652" alt="Uploaded systems's Dev Card"/></a>
